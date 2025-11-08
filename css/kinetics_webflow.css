@@ -2426,6 +2426,11 @@ figcaption {
     padding: 1rem;
   }
 
+  .home_work_content_1 {
+    grid-template-columns: 1fr;
+    grid-row-gap: 2rem;
+  }
+
   .home_services_item {
     padding-top: 2rem;
     padding-bottom: 2rem;
@@ -2794,6 +2799,11 @@ figcaption {
 
   .home_work_content {
     grid-template-columns: 1fr;
+  }
+
+  .home_work_content_1 {
+    grid-template-columns: 1fr;
+    grid-row-gap: 1.5rem;
   }
 
   .section-header-center.home_services {
