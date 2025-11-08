@@ -2817,7 +2817,7 @@ figcaption {
     grid-column-gap: 1.5rem;
     grid-row-gap: 1.5rem;
     flex-flow: column;
-    align-items: flex-end;
+    align-items: flex-start;
   }
 
   .hero_rotating-badge {
